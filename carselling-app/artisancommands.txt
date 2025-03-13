@@ -1,0 +1,2 @@
+php artisan make:controller CarController
+php artisan make:controller ProductController --resource
